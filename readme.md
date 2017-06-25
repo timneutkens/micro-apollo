@@ -5,7 +5,7 @@ Example usage of Apollo with ZEIT's micro
 ## Installation
 
 ```
-npm install micro graphql-server-micro graphql-tools
+npm install micro graphql graphql-server-micro graphql-tools
 ```
 
 ## Usage
